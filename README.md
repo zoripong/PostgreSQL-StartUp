@@ -69,7 +69,7 @@ local   all             postgres                                md5
 ```
 > DB 서버 재시작
 ```
-$ sudo etc/init.d/postgresql restart
+$ sudo /etc/init.d/postgresql restart
 ```
 > 제대로 적용 되었나 다시 한 번 확인
 ```
