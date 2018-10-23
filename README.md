@@ -1,4 +1,4 @@
-# PostgreSQL 시작하기
+# PostgreSQL 시작하기 [![author](https://img.shields.io/badge/author-devuri-4c80f1.svg?style=flat-square)](https://github.com/zoripong)
 ## PostgreSQL?
 - 객체지향 데이터베이스 [(ORDBMS)](https://ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_%EA%B4%80%EA%B3%84_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 - [MySQL vs PostGIS (Postgresql) 범위 질의 성능 비교](https://steemit.com/kr-dev/@tmkor/db-2-mysql-vs-postgis-postgresql)
